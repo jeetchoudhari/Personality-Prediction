@@ -1,7 +1,7 @@
 # Personality-Prediction
 
 ## Overview
-The objective of this project is to predict personality based on the 5 features (BIG5 – O.C.E.A.N.) which stand for Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism in order to diagnose psychological problems as well as assessment of candidates. Specifically, the following were defined to achieve the general objective of the study:
+The objective of this project is to predict personality based on the 5 features (BIG5 – O.C.E.A.N.) that are Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism in order to diagnose psychological problems as well as assessment of candidates. Specifically, the following were defined to achieve the general objective of the study:
 1.	Develop an app to screen candidates for college, employment.
 2.	To diagnose psychological problems.
 3.	Focusing on strengths, weaknesses, temperament, and style of leadership.
